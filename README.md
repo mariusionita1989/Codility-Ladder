@@ -1,7 +1,8 @@
 # Codility-Ladder
 You have to climb up a ladder.</br>
 The ladder has exactly N rungs, numbered from 1 to N.</br>
-With each step, you can ascend by one or two rungs. More precisely:
+With each step, you can ascend by one or two rungs.</br>
+More precisely:</br>
 with your first step you can stand on rung 1 or 2,</br>
 if you are on rung K, you can move to rungs K + 1 or K + 2,</br>
 finally you have to stand on rung N.</br>
