@@ -12,9 +12,9 @@ For example, given N = 4, you have five different ways of climbing, ascending by
 1, 1 and 2 rungs,</br>
 1, 2 and 1 rung,</br>
 2, 1 and 1 rungs, and</br>
-2 and 2 rungs.</br>
-Given N = 5, you have eight different ways of climbing, ascending by:
+2 and 2 rungs.
 
+Given N = 5, you have eight different ways of climbing, ascending by:</br>
 1, 1, 1, 1 and 1 rung,</br>
 1, 1, 1 and 2 rungs,</br>
 1, 1, 2 and 1 rung,</br>
